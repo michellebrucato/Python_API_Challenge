@@ -1,0 +1,5 @@
+# files to ignore 
+
+starter_code/WeatherPy.ipynb
+.ipynb_checkpoints/
+starter_code/__pycache__/
