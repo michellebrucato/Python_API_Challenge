@@ -3,3 +3,4 @@
 starter_code/WeatherPy.ipynb
 .ipynb_checkpoints/
 starter_code/__pycache__/
+api_keys.py
